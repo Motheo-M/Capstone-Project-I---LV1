@@ -2,7 +2,7 @@
 This is my first project that demonstates my skills as a software engineer.
 
 ## Description of the project
-1. What is the repo
+1. What is the project
 2. How does it work
 
 ### What is the project
