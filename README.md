@@ -1,3 +1,16 @@
+<a id="toc"></a>
+# Table of contents
+ 1. [Introduction](#introduction)
+ 2. [Features](#features)
+ 3. [Installation](#installation)
+ 4. [Usage](#usage)
+ 5. [License](#license)
+ 6. [Author](#author)
+ 
+ <a id="introduction"></a>
+## Welcome 👋 
+### Hope you look forward to what is in this repo. <br>Let's get started
+
 # Capstone-Project-I---LV1
 This is my first project that demonstates my skills as a software engineer.
 
